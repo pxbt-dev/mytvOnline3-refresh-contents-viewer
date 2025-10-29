@@ -14,3 +14,5 @@ As such, this app queries the Formuler content provider database to show the lat
 
 - Download the `.apk` from the [releases section](https://github.com/pxbt-dev/mytvOnline3-refresh-contents-viewer/releases) 
 - Or compile from source (see below)
+
+<img width="1407" height="792" alt="image" src="https://github.com/user-attachments/assets/a8c714a7-1a35-4b18-8807-5e52df1b020d" />
