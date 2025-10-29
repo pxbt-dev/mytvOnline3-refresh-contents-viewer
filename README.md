@@ -17,4 +17,4 @@ As such, this app queries the Formuler content provider database, parses the res
 
 - Download the `.apk` from the [releases section](https://github.com/pxbt-dev/mytvOnline3-refresh-contents-viewer/releases) 
 - Will only work on Formuler devices running mytvOnline3 (not tested on anything else!).
-- Or compile from source (see below)
+- Or compile from source
