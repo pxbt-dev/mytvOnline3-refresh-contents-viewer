@@ -10,9 +10,9 @@ The logs had more info as I could see from running ADB commands locally, though 
 
 As such, this app queries the Formuler content provider database to show the latest content updates sorted by ID (newest first). When you refresh your content in MyTVOnline3, this viewer displays what content was added to the database (if any).
 
+<img width="1407" height="792" alt="image" src="https://github.com/user-attachments/assets/a8c714a7-1a35-4b18-8807-5e52df1b020d" />
+
 ## 🚀 Installation
 
 - Download the `.apk` from the [releases section](https://github.com/pxbt-dev/mytvOnline3-refresh-contents-viewer/releases) 
 - Or compile from source (see below)
-
-<img width="1407" height="792" alt="image" src="https://github.com/user-attachments/assets/a8c714a7-1a35-4b18-8807-5e52df1b020d" />
